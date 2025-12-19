@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int age, height;
-    long long bounty; // ใช้ long long เพื่อรองรับค่าหัวหลักพันล้าน
+    long long bounty; 
     string character;
 
     cout << "Enter your age: ";
